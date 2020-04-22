@@ -3,6 +3,8 @@
 
 ## Running Locally
 
+Rename ".env.example" to ".env" 
+
 ```sh
 yarn
 
